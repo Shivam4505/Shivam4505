@@ -39,12 +39,3 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **ADBMS Project** | Advanced Database project covering triggers, stored procedures & query optimization. | PostgreSQL, SQL, Python |
-| **Hackathon Project** | Built in 24 hours during a coding competition. | React, Node.js, MongoDB |
-
----
-
